@@ -7,12 +7,18 @@
 
 User Story: 
 
-    ```
+    
     AS A social media startup
     I WANT an API for my social network that uses a NoSQL database
     SO THAT my website can handle large amounts of unstructured data
-    ```
+    
   
+  [Click here to see a video of API endpoints being tested in insomnia (part 1 of 2)](https://watch.screencastify.com/v/RlcLcdazbt6DS72c9uZQ).
+  
+  [Click here to see the end of the test video(the last 2 endpoints)](https://watch.screencastify.com/v/Ty8jyyz6nOrVgBkcaAUF).
+
+
+
   [Click here to see the GitHub repository for this project](https://github.com/DaniDelia253/social-network-api).
   
   
